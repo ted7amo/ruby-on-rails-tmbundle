@@ -1,1 +1,1 @@
-New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
