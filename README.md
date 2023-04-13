@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Optimize function calls to method calls (#8507)
