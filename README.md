@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+YOLOv8 INT8 TFLite Inference Example (#7317)
