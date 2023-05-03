@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
