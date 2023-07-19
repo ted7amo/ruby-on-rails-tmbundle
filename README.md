@@ -1,1 +1,1 @@
-example Google Colab
+Docs partial mdformat improvements (#7378)
