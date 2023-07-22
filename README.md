@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
