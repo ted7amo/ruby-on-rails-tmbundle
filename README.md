@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Updated SQL Query Plot Code (#8120)
