@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
