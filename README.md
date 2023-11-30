@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
