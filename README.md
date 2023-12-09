@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
