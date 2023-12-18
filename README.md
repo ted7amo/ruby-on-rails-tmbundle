@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
