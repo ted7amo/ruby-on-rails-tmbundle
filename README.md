@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
