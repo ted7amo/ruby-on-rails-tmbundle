@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Pass callbacks to validator (#7320)
