@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
