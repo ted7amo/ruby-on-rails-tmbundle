@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Add plot_images conf_thresh parameter (#8446)
