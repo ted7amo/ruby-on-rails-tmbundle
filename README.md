@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Mkdocs annotations fixes (#7600)
