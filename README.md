@@ -1,1 +1,1 @@
-ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
