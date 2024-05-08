@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Update pyproject.toml and Docs (#7274)
