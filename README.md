@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Expand Model method type hinting (#8279)
