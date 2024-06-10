@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+OpenVino 2024.0.0 (#8726)
