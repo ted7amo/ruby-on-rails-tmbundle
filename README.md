@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+New test for labels and crops (#8861)
