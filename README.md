@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Add plot_images conf_thresh parameter (#8446)
