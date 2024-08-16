@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
