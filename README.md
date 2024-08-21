@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Fix Yolo 8.0.206 scale bug (#7821)
