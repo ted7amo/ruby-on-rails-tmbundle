@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
