@@ -1,1 +1,1 @@
-Added check of parameter type before setting required_grad=True for frozen layers (#8318)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
