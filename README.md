@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+New HUB Cloud Training docs page (#8174)
