@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Updating a typo on paddlepaddle.md (#9108)
